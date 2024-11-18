@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\bin\Debug\net6.0\evdokimovpractice1.exe
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\bin\Debug\net6.0\evdokimovpractice1.deps.json
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\bin\Debug\net6.0\evdokimovpractice1.runtimeconfig.json
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\bin\Debug\net6.0\evdokimovpractice1.dll
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\bin\Debug\net6.0\evdokimovpractice1.pdb
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\obj\Debug\net6.0\evdokimovpractice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\obj\Debug\net6.0\evdokimovpractice1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\obj\Debug\net6.0\evdokimovpractice1.AssemblyInfo.cs
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\obj\Debug\net6.0\evdokimovpractice1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\obj\Debug\net6.0\evdokimovpractice1.dll
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\obj\Debug\net6.0\refint\evdokimovpractice1.dll
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\obj\Debug\net6.0\evdokimovpractice1.pdb
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\obj\Debug\net6.0\evdokimovpractice1.genruntimeconfig.cache
+C:\Users\user\Desktop\gyuufgy\цунрапм\evdokimovpractice1\obj\Debug\net6.0\ref\evdokimovpractice1.dll
